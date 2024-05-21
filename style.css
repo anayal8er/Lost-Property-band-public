@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.theme {
+  color: #1e90ff;
+  background-color: #211f59;
+}
+
+h1 {
+  color:antiquewhite
+}
+
+h2{
+  background-color: antiquewhite;
+}
